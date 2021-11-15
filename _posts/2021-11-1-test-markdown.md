@@ -27,9 +27,9 @@ comments: true
 ## 讀書方面
 
 ### reg科
-其實都冇咩特別，主要就係跟返個syllabus去讀, 
-我department會pre-reg 好多require course比我, 
-好似每個sem都15credit左右, 自己申請overload reg多少少, 
+其實都冇咩特別，主要就係跟返個syllabus去讀,\
+我department會pre-reg 好多require course比我,\ 
+好似每個sem都15credit左右, 自己申請overload reg多少少,\ 
 take咗好多唔關我事嘅cs course, 讀得仲開心過自己major
 
 #### reg科技巧
@@ -43,25 +43,36 @@ take咗好多唔關我事嘅cs course, 讀得仲開心過自己major
 ## 其他方面
 
 ### 住hall
-我住過嘅hall有  7,6,skcc(無錯,ug都住得,雖然主要pg住),1,5
+
+我住過嘅hall有  
+- 7,
+- 6,
+- skcc(無錯,ug都住得,雖然主要pg住)
+- 1
+- 5
 最滿意係7同6,  前者一個學期大概8xxx hkd, 後者好似6xxx hkd, 
 舒服就一定7(同89差唔多)舒服d, hall 7 2間房共用一個廁所 
 除左讀書, 一般都係係hall休息睇youtube,打下機咁,
 我覺得labtop性能等等真係麻麻地, 所以自己去深水埗買零件砌機,
 得閒嘅話po幾張相:)
+
 #### hall policy
-
-好早之前hall係加分制度, 夠50分就基本一定有hall住
-
+好早之前hall係加分制度, 夠50分就基本一定有hall住（住屯門某d地方會exactly有50分)
 但後期轉左， 一個soc only nominate 2,3個人, 所以係會有衝突等等
 
 ### 上莊
 我呢d毒撚就一定唔會上chur莊,
 一黎我唔yo得（我性格真係唔慣),二黎無乜時間, 3黎唔想通頂
-由於中意玩某樣運動, 上左個sport莊, 
+由於中意玩某樣運動, 上左個sport莊, 基本上係唯一有同人吹水嘅時候了
 
 
 
+### outro
+at the end, ug真係過得好快, 珍惜時間
+
+如果你想同我吹水 可以telegram @q123a123
+
+希望你ug讀得順利
 
 ## Here is a secondary heading
 
