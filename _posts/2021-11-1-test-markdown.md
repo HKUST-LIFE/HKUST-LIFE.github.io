@@ -14,13 +14,12 @@ comments: true
 
 **:)**
 
-# 簡介
+# 自我介紹
 
-我dse比較低分入science school, 中途tran左去ipo, 日日讀書, 跟住眨下眼就畢左業, 除咗讀書真係幾乎乜都冇做過。
-
-
-
-
+我當初dse比較低分入science school, 中途tran左去ipo,
+日日自己讀書, 自己上堂, 自己食飯, 基本上得1,2個朋友, 
+一個係當初phys1111識嘅, 一個係sit堂同隔離吹水識嘅  
+跟住眨下眼就畢左業, 除咗讀書真係幾乎乜都冇做過。
 
 
 
@@ -73,6 +72,8 @@ take咗好多唔關我事嘅cs course, 讀得仲開心過自己major
 
 ### outro
 at the end, ug真係過得好快, 珍惜時間
+
+
 
 如果你想同我吹水 可以telegram @q123a123
 
